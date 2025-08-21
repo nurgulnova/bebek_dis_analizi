@@ -16,4 +16,4 @@ Bu proje kendi bebegimin dis cikarma zamanlamasini ve siralamasini analiz etmek 
 -Tahminsel modelleme denemesi
 
 ## Kisisel Not
-Bu proje, hem ebeveynlik deneyimimiz hem de veri bilimi yolculugumu birlestirdigim ilk calismadir. 
+Bu proje, hem ebeveynlik deneyimimi hem de veri bilimi yolculugumu birlestirdigim ilk calismadir. 
